@@ -894,8 +894,8 @@ if (strtolower($message['text']) == "start" || strtolower($message['text']) == "
                     'messages' => array(
                         array(
                             'type' => 'image', //訊息類型 (圖片)
-                            'originalContentUrl' => 'https://i.ibb.co/18MmmSc/1.png', //回復圖片
-                            'previewImageUrl' => 'https://i.ibb.co/18MmmSc/1.png' //回復的預覽圖片
+                            'originalContentUrl' => 'https://i.ibb.co/xhXKRfs/S-2383875.jpg', //回復圖片
+                            'previewImageUrl' => 'https://i.ibb.co/xhXKRfs/S-2383875.jpg' //回復的預覽圖片
                         )
                     )
                 ));
